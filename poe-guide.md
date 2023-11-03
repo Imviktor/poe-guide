@@ -3,112 +3,336 @@
 
 ---
 
-<h1 id="welcome-to-stackedit">Welcome to StackEdit!</h1>
-<p>Hi! I’m your first Markdown file in <strong>StackEdit</strong>. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the <strong>file explorer</strong> on the left corner of the navigation bar.</p>
-<h1 id="files">Files</h1>
-<p>StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible <strong>offline!</strong></p>
-<h2 id="create-files-and-folders">Create files and folders</h2>
-<p>The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the <strong>New file</strong> button in the file explorer. You can also create folders by clicking the <strong>New folder</strong> button.</p>
-<h2 id="switch-to-another-file">Switch to another file</h2>
-<p>All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.</p>
-<h2 id="rename-a-file">Rename a file</h2>
-<p>You can rename the current file by clicking the file name in the navigation bar or by clicking the <strong>Rename</strong> button in the file explorer.</p>
-<h2 id="delete-a-file">Delete a file</h2>
-<p>You can delete the current file by clicking the <strong>Remove</strong> button in the file explorer. The file will be moved into the <strong>Trash</strong> folder and automatically deleted after 7 days of inactivity.</p>
-<h2 id="export-a-file">Export a file</h2>
-<p>You can export the current file by clicking <strong>Export to disk</strong> in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.</p>
-<h1 id="synchronization">Synchronization</h1>
-<p>Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your <strong>Google Drive</strong>, your <strong>Dropbox</strong> and your <strong>GitHub</strong> accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow… The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.</p>
-<p>There are two types of synchronization and they can complement each other:</p>
+<h1 id="poe-notes">POE Notes</h1>
+<p>This document aims to define aspects of the game to consider</p>
+<h1 id="what-to-do-with">What to do with</h1>
+<p>Here you’ll find the summary of things to do with each orb</p>
+
+<table>
+<thead>
+<tr>
+<th>Orb</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table><h1 id="game-stages">Game stages</h1>
+<h2 id="early-game-first-1--2-weeks">Early Game (first 1 ~ 2 weeks)</h2>
+<h2 id="mid-game-2-weeks">Mid Game (&gt;2 weeks)</h2>
+<h1 id="cluster-jewels">Cluster Jewels</h1>
+<p>The cluster jewel is a very lucrative craft when the other players starts to build their builds. This method works for mid game when many players already have the currency and the level to invest in the cluster jewels.</p>
+<h2 id="large-jewels">Large Jewels</h2>
+<h3 id="passives">8 Passives</h3>
+<p>The <strong>large cluster jewels</strong> are crafted using <strong>prismatic fossils</strong> <img src="https://www.poewiki.net/images/9/9f/Prismatic_Fossil_inventory_icon.png" alt="" height="25"> and <strong>primitive resonators</strong><img src="https://www.poewiki.net/images/d/dd/Primitive_Chaotic_Resonator_inventory_icon.png" alt="" height="25">. The idea is to hit at least 2 modifiers and use <strong>exalts</strong><img src="https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png" alt="" height="25"> and <strong>annulment</strong> to get the 3rd skill. Jackpot if you get 3 skills with the fossils.</p>
+<p><strong>Descriptive video</strong>: <a href="https://www.youtube.com/watch?v=MOYCROoD0u0">https://www.youtube.com/watch?v=MOYCROoD0u0</a></p>
+
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>iLvl</th>
+<th>Cost</th>
+<th>Looking for</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cold damage</td>
+<td>68 ~ 74</td>
+<td>10co</td>
+<td>3 Skill mods: [Prismatic Heart, Doryani’s Lesson, …]</td>
+</tr>
+<tr>
+<td>Fire damage</td>
+<td>1 ~ (50*)/74</td>
+<td>15co</td>
+<td>Burning Bright, Prismatic Heart, Widespread Destruction</td>
+</tr>
+</tbody>
+</table><p>(*) This can be expensive. Don’t pay more than 30 ~ 40 co</p>
+<p>Cold Simulation: <a href="https://pastebin.com/jm2A9bGp">https://pastebin.com/jm2A9bGp</a></p>
+<h3 id="passives-ilvl-84">12 Passives iLvl 84</h3>
+<p>These large cluster jewels can be crafted using fossils and looking for increased effect 35% ideally. 25% increased effect is also valid but then you need to <strong>vaal</strong><img src="https://www.poewiki.net/images/2/2c/Vaal_Orb_inventory_icon.png" alt="" height="25"> it and then use <strong>tainted divine teardrop</strong> <img src="https://www.poewiki.net/images/3/3f/Tainted_Divine_Teardrop_inventory_icon.png" alt="" height="25"> to increase the tier to 35%. It really depends in the type of cluster.</p>
+
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Cost</th>
+<th>Looking for</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Minion life</td>
+<td>2d</td>
+<td>Attack &amp; Cast speed, All elemental, Energy shield</td>
+</tr>
+<tr>
+<td>Spell damage</td>
+<td>100co</td>
+<td>All attributes, Strength, Intelligence</td>
+</tr>
+</tbody>
+</table><p>You can also buy an already corrupted cluster with 25% effect and the desired mods and then apply the <strong>tainted divine teardrop</strong> <img src="https://www.poewiki.net/images/3/3f/Tainted_Divine_Teardrop_inventory_icon.png" alt="" height="25"> but this is more unlikely to happen.</p>
+<h2 id="medium-jewels">Medium Jewels</h2>
+<p>The <strong>medium cluster jewels</strong> are crafted with <strong>alteration</strong> <img src="https://www.poewiki.net/images/d/d8/Orb_of_Alteration_inventory_icon.png" alt="" height="25">  and <strong>augment</strong> <img src="https://www.poewiki.net/images/c/cb/Orb_of_Augmentation_inventory_icon.png" alt="" height="25"> in a <strong>iLvl:75+</strong>. Use the item filter to highlight the item in case it hit a desired skill. If we reach at least one of the desired modifiers apply the <strong>regal</strong> <img src="https://www.poewiki.net/images/3/33/Regal_Orb_inventory_icon.png" alt="" height="25"> . If it contains 2 skills, check price and finish. Otherwise, apply a <strong>scouring</strong> <img src="https://www.poewiki.net/images/5/51/Orb_of_Scouring_inventory_icon.png" alt="" height="25"> and restart the process. It is not possible to achieve 2 skills with the <strong>alt+aug</strong> combo. Regal it is mandatory. The cost of the jewel might vary between 5 and 15 co.</p>
+
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>iLvl</th>
+<th>Filter</th>
+<th>Looking for</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Critical</td>
+<td>50+</td>
+<td><em>“press|quick|basics|reta”</em></td>
+<td><ul><li>Pressure Points + Quick Gateway</li><li>Pressure Points + Basics of pain</li><li>Pressure Points + Precise Retaliation</li></ul></td>
+</tr>
+<tr>
+<td>Burning</td>
+<td>68+</td>
+<td><em>“blow|wast|flame|bright|flow|wrapped|decay”</em></td>
+<td><ul><li>Flow of life + Burning bright</li><li>Flow of life + Wrapped in flame</li><li>Flow of life + Fan of the flames</li><li>Blowback + Wasting affliction</li><li>Fan the flames + Wasting affliction</li><li>Fan the flames + Blowback</li><li>Burning bright + Brush with death</li></ul></td>
+</tr>
+<tr>
+<td>Chaos DoT</td>
+<td>68+</td>
+<td><em>“wast|flow|decay|brew”</em></td>
+<td><ul><li>Flow of life + Student Decay</li><li>Flow of life + Brewed for potency</li><li>Student Decay + Brewed for potency</li><li>Circling Oblivion + Wasting Affliction</li></ul></td>
+</tr>
+<tr>
+<td>DoT</td>
+<td>68+</td>
+<td>“wast|flow|decay|brew|brush”</td>
+<td><ul><li>Flow of life + Student of Decay</li><li>Flow of live + Brewed for potency</li><li>Flow of live + Brush with death</li><li>Student of Decay + Brewed for potency</li><li>Wastig affliction + Brush with death</li></ul></td>
+</tr>
+<tr>
+<td>Minion life</td>
+<td>68+</td>
+<td><em>“renew|blessed”</em></td>
+<td><ul><li>Renewal + Dread March</li><li>Renewal + Feasting fiends</li><li>Blessed Rebirth + Renewal</li><li>Blessed Rebirth + Feasting fiends</li><li>Blessed Rebirth + Life from death</li><li>Blessed Rebirth + Hulking corpses</li><li>Blessed Rebirth + Dread March</li></ul></td>
+</tr>
+<tr>
+<td>Herald</td>
+<td>75+</td>
+<td><em>“purposeful”</em></td>
+<td><ul><li>Purposeful Harbinger + Empowered envoy</li><li>Purposeful Harbinger + Hearldry</li><li>Purposeful Harbinger + Lasting impression</li><li>Purposeful Harbinger + Endbringer</li></ul></td>
+</tr>
+</tbody>
+</table><h1 id="gems">Gems</h1>
+<p>There are two different ways of making 20/20 gems:</p>
 <ul>
-<li>
-<p>The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.</p>
-<blockquote>
-<p>To start syncing your workspace, just sign in with Google in the menu.</p>
-</blockquote>
-</li>
-<li>
-<p>The file synchronization will keep one file of the workspace synced with one or multiple files in <strong>Google Drive</strong>, <strong>Dropbox</strong> or <strong>GitHub</strong>.</p>
-<blockquote>
-<p>Before starting to sync files, you must link an account in the <strong>Synchronize</strong> sub-menu.</p>
-</blockquote>
-</li>
+<li>Level up until lvl 20 then apply 20 Gemcutter’s Prism <img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="30"></li>
+<li>Level up until level 20 then vendor it with 1<img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="30"> to get a level 1/20 gem. Then level up again until level 20.</li>
 </ul>
-<h2 id="open-a-file">Open a file</h2>
-<p>You can open a file from <strong>Google Drive</strong>, <strong>Dropbox</strong> or <strong>GitHub</strong> by opening the <strong>Synchronize</strong> sub-menu and clicking <strong>Open from</strong>. Once opened in the workspace, any modification in the file will be automatically synced.</p>
-<h2 id="save-a-file">Save a file</h2>
-<p>You can save any file of the workspace to <strong>Google Drive</strong>, <strong>Dropbox</strong> or <strong>GitHub</strong> by opening the <strong>Synchronize</strong> sub-menu and clicking <strong>Save on</strong>. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.</p>
-<h2 id="synchronize-a-file">Synchronize a file</h2>
-<p>Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.</p>
-<p>If you just have modified your file and you want to force syncing, click the <strong>Synchronize now</strong> button in the navigation bar.</p>
-<blockquote>
-<p><strong>Note:</strong> The <strong>Synchronize now</strong> button is disabled if you have no file to synchronize.</p>
-</blockquote>
-<h2 id="manage-file-synchronization">Manage file synchronization</h2>
-<p>Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking <strong>File synchronization</strong> in the <strong>Synchronize</strong> sub-menu. This allows you to list and remove synchronized locations that are linked to your file.</p>
-<h1 id="publication">Publication</h1>
-<p>Publishing in StackEdit makes it simple for you to publish online your files. Once you’re happy with a file, you can publish it to different hosting platforms like <strong>Blogger</strong>, <strong>Dropbox</strong>, <strong>Gist</strong>, <strong>GitHub</strong>, <strong>Google Drive</strong>, <strong>WordPress</strong> and <strong>Zendesk</strong>. With <a href="http://handlebarsjs.com/">Handlebars templates</a>, you have full control over what you export.</p>
-<blockquote>
-<p>Before starting to publish, you must link an account in the <strong>Publish</strong> sub-menu.</p>
-</blockquote>
-<h2 id="publish-a-file">Publish a File</h2>
-<p>You can publish your file by opening the <strong>Publish</strong> sub-menu and by clicking <strong>Publish to</strong>. For some locations, you can choose between the following formats:</p>
+<p>Once the gems are 20/20 you can apply the methods described bellow to make profit.</p>
+<p>Resources:</p>
 <ul>
-<li>Markdown: publish the Markdown text on a website that can interpret it (<strong>GitHub</strong> for instance),</li>
-<li>HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).</li>
+<li><a href="https://poe.ninja/economy/ancestor/skill-gems">poe.ninja gems</a></li>
+<li><a href="https://poe.how/economy">poeHow economy</a></li>
 </ul>
-<h2 id="update-a-publication">Update a publication</h2>
-<p>After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the <strong>Publish now</strong> button in the navigation bar.</p>
-<blockquote>
-<p><strong>Note:</strong> The <strong>Publish now</strong> button is disabled if your file has not been published yet.</p>
-</blockquote>
-<h2 id="manage-file-publication">Manage file publication</h2>
-<p>Since one file can be published to multiple locations, you can list and manage publish locations by clicking <strong>File publication</strong> in the <strong>Publish</strong> sub-menu. This allows you to list and remove publication locations that are linked to your file.</p>
-<h1 id="markdown-extensions">Markdown extensions</h1>
-<p>StackEdit extends the standard Markdown syntax by adding extra <strong>Markdown extensions</strong>, providing you with some nice features.</p>
-<blockquote>
-<p><strong>ProTip:</strong> You can disable any <strong>Markdown extension</strong> in the <strong>File properties</strong> dialog.</p>
-</blockquote>
-<h2 id="smartypants">SmartyPants</h2>
-<p>SmartyPants converts ASCII punctuation characters into “smart” typographic punctuation HTML entities. For example:</p>
+<h2 id="level-and-corrupt">Level and corrupt</h2>
 
 <table>
 <thead>
 <tr>
 <th></th>
-<th>ASCII</th>
-<th>HTML</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Single backticks</td>
-<td><code>'Isn't this fun?'</code></td>
-<td>‘Isn’t this fun?’</td>
-</tr>
-<tr>
-<td>Quotes</td>
-<td><code>"Isn't this fun?"</code></td>
-<td>“Isn’t this fun?”</td>
-</tr>
-<tr>
-<td>Dashes</td>
-<td><code>-- is en-dash, --- is em-dash</code></td>
-<td>– is en-dash, — is em-dash</td>
+<td><img src="https://www.poewiki.net/images/9/9d/Mark_On_Hit_Support_inventory_icon.png" alt="" height="30"></td>
+<td>Mark on hit support</td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/KBQ3dOPs5">Level 20/20 corrupted</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/9D9K9OKfK">Level 21/20 corrupted</a></td>
 </tr>
 </tbody>
-</table><h2 id="katex">KaTeX</h2>
-<p>You can render LaTeX mathematical expressions using <a href="https://khan.github.io/KaTeX/">KaTeX</a>:</p>
-<p>The <em>Gamma function</em> satisfying <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Γ</mi><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>n</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">!</mo><mspace width="1em"></mspace><mi mathvariant="normal">∀</mi><mi>n</mi><mo>∈</mo><mi mathvariant="double-struck">N</mi></mrow><annotation encoding="application/x-tex">\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord">Γ</span><span class="mopen">(</span><span class="mord mathnormal">n</span><span class="mclose">)</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mopen">(</span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord">1</span><span class="mclose">)!</span><span class="mspace" style="margin-right: 1em;"></span><span class="mord">∀</span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">∈</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.68889em; vertical-align: 0em;"></span><span class="mord mathbb">N</span></span></span></span></span> is via the Euler integral</p>
-<p><span class="katex--display"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi mathvariant="normal">Γ</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>=</mo><msubsup><mo>∫</mo><mn>0</mn><mi mathvariant="normal">∞</mi></msubsup><msup><mi>t</mi><mrow><mi>z</mi><mo>−</mo><mn>1</mn></mrow></msup><msup><mi>e</mi><mrow><mo>−</mo><mi>t</mi></mrow></msup><mi>d</mi><mi>t</mi> <mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord">Γ</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right: 0.04398em;">z</span><span class="mclose">)</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 2.32624em; vertical-align: -0.91195em;"></span><span class="mop"><span class="mop op-symbol large-op" style="margin-right: 0.44445em; position: relative; top: -0.001125em;">∫</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 1.41429em;"><span class="" style="top: -1.78805em; margin-left: -0.44445em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span><span class="" style="top: -3.8129em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">∞</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.91195em;"><span class=""></span></span></span></span></span></span><span class="mspace" style="margin-right: 0.166667em;"></span><span class="mord"><span class="mord mathnormal">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.864108em;"><span class="" style="top: -3.113em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right: 0.04398em;">z</span><span class="mbin mtight">−</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span><span class="mord"><span class="mord mathnormal">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.843556em;"><span class="" style="top: -3.113em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mathnormal mtight">t</span></span></span></span></span></span></span></span></span><span class="mord mathnormal">d</span><span class="mord mathnormal">t</span><span class="mspace" style="margin-right: 0.166667em;"></span><span class="mord">.</span></span></span></span></span></span></p>
-<blockquote>
-<p>You can find more information about <strong>LaTeX</strong> mathematical expressions <a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">here</a>.</p>
-</blockquote>
-<h2 id="uml-diagrams">UML diagrams</h2>
-<p>You can render UML diagrams using <a href="https://mermaidjs.github.io/">Mermaid</a>. For example, this will produce a sequence diagram:</p>
-<pre class=" language-mermaid"><svg id="mermaid-svg-ZIVqIeakURe2N99c" width="100%" xmlns="http://www.w3.org/2000/svg" height="543" style="max-width: 814px;" viewBox="-50 -10 814 543"><style>#mermaid-svg-ZIVqIeakURe2N99c{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#000000;}#mermaid-svg-ZIVqIeakURe2N99c .error-icon{fill:#552222;}#mermaid-svg-ZIVqIeakURe2N99c .error-text{fill:#552222;stroke:#552222;}#mermaid-svg-ZIVqIeakURe2N99c .edge-thickness-normal{stroke-width:2px;}#mermaid-svg-ZIVqIeakURe2N99c .edge-thickness-thick{stroke-width:3.5px;}#mermaid-svg-ZIVqIeakURe2N99c .edge-pattern-solid{stroke-dasharray:0;}#mermaid-svg-ZIVqIeakURe2N99c .edge-pattern-dashed{stroke-dasharray:3;}#mermaid-svg-ZIVqIeakURe2N99c .edge-pattern-dotted{stroke-dasharray:2;}#mermaid-svg-ZIVqIeakURe2N99c .marker{fill:#666;stroke:#666;}#mermaid-svg-ZIVqIeakURe2N99c .marker.cross{stroke:#666;}#mermaid-svg-ZIVqIeakURe2N99c svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}#mermaid-svg-ZIVqIeakURe2N99c .actor{stroke:hsl(0,0%,83%);fill:#eee;}#mermaid-svg-ZIVqIeakURe2N99c text.actor > tspan{fill:#333;stroke:none;}#mermaid-svg-ZIVqIeakURe2N99c .actor-line{stroke:#666;}#mermaid-svg-ZIVqIeakURe2N99c .messageLine0{stroke-width:1.5;stroke-dasharray:none;stroke:#333;}#mermaid-svg-ZIVqIeakURe2N99c .messageLine1{stroke-width:1.5;stroke-dasharray:2,2;stroke:#333;}#mermaid-svg-ZIVqIeakURe2N99c #arrowhead path{fill:#333;stroke:#333;}#mermaid-svg-ZIVqIeakURe2N99c .sequenceNumber{fill:white;}#mermaid-svg-ZIVqIeakURe2N99c #sequencenumber{fill:#333;}#mermaid-svg-ZIVqIeakURe2N99c #crosshead path{fill:#333;stroke:#333;}#mermaid-svg-ZIVqIeakURe2N99c .messageText{fill:#333;stroke:#333;}#mermaid-svg-ZIVqIeakURe2N99c .labelBox{stroke:hsl(0,0%,83%);fill:#eee;}#mermaid-svg-ZIVqIeakURe2N99c .labelText,#mermaid-svg-ZIVqIeakURe2N99c .labelText > tspan{fill:#333;stroke:none;}#mermaid-svg-ZIVqIeakURe2N99c .loopText,#mermaid-svg-ZIVqIeakURe2N99c .loopText > tspan{fill:#333;stroke:none;}#mermaid-svg-ZIVqIeakURe2N99c .loopLine{stroke-width:2px;stroke-dasharray:2,2;stroke:hsl(0,0%,83%);fill:hsl(0,0%,83%);}#mermaid-svg-ZIVqIeakURe2N99c .note{stroke:hsl(60,100%,23.3333333333%);fill:#ffa;}#mermaid-svg-ZIVqIeakURe2N99c .noteText,#mermaid-svg-ZIVqIeakURe2N99c .noteText > tspan{fill:#333;stroke:none;}#mermaid-svg-ZIVqIeakURe2N99c .activation0{fill:#f4f4f4;stroke:#666;}#mermaid-svg-ZIVqIeakURe2N99c .activation1{fill:#f4f4f4;stroke:#666;}#mermaid-svg-ZIVqIeakURe2N99c .activation2{fill:#f4f4f4;stroke:#666;}#mermaid-svg-ZIVqIeakURe2N99c:root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}#mermaid-svg-ZIVqIeakURe2N99c sequence{fill:apa;}</style><g></g><g><line id="actor6" x1="75" y1="5" x2="75" y2="532" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="0" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="75" dy="0">Alice</tspan></text></g><g><line id="actor7" x1="318" y1="5" x2="318" y2="532" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="243" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="318" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="318" dy="0">Bob</tspan></text></g><g><line id="actor8" x1="539" y1="5" x2="539" y2="532" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="464" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="539" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="539" dy="0">John</tspan></text></g><defs><marker id="arrowhead" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z"></path></marker></defs><defs><marker id="crosshead" markerWidth="15" markerHeight="8" orient="auto" refX="16" refY="4"><path fill="black" stroke="#000000" stroke-width="1px" d="M 9,2 V 6 L16,4 Z" style="stroke-dasharray: 0, 0;"></path><path fill="none" stroke="#000000" stroke-width="1px" d="M 0,1 L 6,7 M 6,1 L 0,7" style="stroke-dasharray: 0, 0;"></path></marker></defs><defs><marker id="filled-head" refX="18" refY="7" markerWidth="20" markerHeight="28" orient="auto"><path d="M 18,7 L9,13 L14,7 L9,1 Z"></path></marker></defs><defs><marker id="sequencenumber" refX="15" refY="15" markerWidth="60" markerHeight="40" orient="auto"><circle cx="15" cy="15" r="6"></circle></marker></defs><text x="197" y="80" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">Hello Bob, how are you?</text><line x1="75" y1="113" x2="318" y2="113" class="messageLine0" stroke-width="2" stroke="none" marker-end="url(#arrowhead)" style="fill: none;"></line><text x="429" y="128" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">How about you John?</text><line x1="318" y1="161" x2="539" y2="161" class="messageLine1" stroke-width="2" stroke="none" marker-end="url(#arrowhead)" style="stroke-dasharray: 3, 3; fill: none;"></line><text x="197" y="176" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">I am good thanks!</text><line x1="318" y1="209" x2="75" y2="209" class="messageLine1" stroke-width="2" stroke="none" marker-end="url(#crosshead)" style="stroke-dasharray: 3, 3; fill: none;"></line><text x="429" y="224" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">I am good thanks!</text><line x1="318" y1="257" x2="539" y2="257" class="messageLine0" stroke-width="2" stroke="none" marker-end="url(#crosshead)" style="fill: none;"></line><g><rect x="564" y="267" fill="#EDF2AE" stroke="#666" width="150" height="84" rx="0" ry="0" class="note"></rect><text x="639" y="272" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="noteText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 14px; font-weight: 400;"><tspan x="639">Bob thinks a long</tspan></text><text x="639" y="288" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="noteText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 14px; font-weight: 400;"><tspan x="639">long time, so long</tspan></text><text x="639" y="304" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="noteText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 14px; font-weight: 400;"><tspan x="639">that the text does</tspan></text><text x="639" y="320" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="noteText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 14px; font-weight: 400;"><tspan x="639">not fit on a row.</tspan></text></g><text x="197" y="366" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">Checking with John...</text><line x1="318" y1="399" x2="75" y2="399" class="messageLine1" stroke-width="2" stroke="none" style="stroke-dasharray: 3, 3; fill: none;"></line><text x="307" y="414" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">Yes... John, how are you?</text><line x1="75" y1="447" x2="539" y2="447" class="messageLine0" stroke-width="2" stroke="none" style="fill: none;"></line><g><rect x="0" y="467" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="499.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="75" dy="0">Alice</tspan></text></g><g><rect x="243" y="467" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="318" y="499.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="318" dy="0">Bob</tspan></text></g><g><rect x="464" y="467" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="539" y="499.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="539" dy="0">John</tspan></text></g></svg></pre>
-<p>And this will produce a flow chart:</p>
-<pre class=" language-mermaid"><svg id="mermaid-svg-mA44mPPtu97qYBKq" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="174.4375" style="max-width: 502.75px;" viewBox="0 0 502.75 174.4375"><style>#mermaid-svg-mA44mPPtu97qYBKq{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#000000;}#mermaid-svg-mA44mPPtu97qYBKq .error-icon{fill:#552222;}#mermaid-svg-mA44mPPtu97qYBKq .error-text{fill:#552222;stroke:#552222;}#mermaid-svg-mA44mPPtu97qYBKq .edge-thickness-normal{stroke-width:2px;}#mermaid-svg-mA44mPPtu97qYBKq .edge-thickness-thick{stroke-width:3.5px;}#mermaid-svg-mA44mPPtu97qYBKq .edge-pattern-solid{stroke-dasharray:0;}#mermaid-svg-mA44mPPtu97qYBKq .edge-pattern-dashed{stroke-dasharray:3;}#mermaid-svg-mA44mPPtu97qYBKq .edge-pattern-dotted{stroke-dasharray:2;}#mermaid-svg-mA44mPPtu97qYBKq .marker{fill:#666;stroke:#666;}#mermaid-svg-mA44mPPtu97qYBKq .marker.cross{stroke:#666;}#mermaid-svg-mA44mPPtu97qYBKq svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}#mermaid-svg-mA44mPPtu97qYBKq .label{font-family:"trebuchet ms",verdana,arial,sans-serif;color:#000000;}#mermaid-svg-mA44mPPtu97qYBKq .cluster-label text{fill:#333;}#mermaid-svg-mA44mPPtu97qYBKq .cluster-label span{color:#333;}#mermaid-svg-mA44mPPtu97qYBKq .label text,#mermaid-svg-mA44mPPtu97qYBKq span{fill:#000000;color:#000000;}#mermaid-svg-mA44mPPtu97qYBKq .node rect,#mermaid-svg-mA44mPPtu97qYBKq .node circle,#mermaid-svg-mA44mPPtu97qYBKq .node ellipse,#mermaid-svg-mA44mPPtu97qYBKq .node polygon,#mermaid-svg-mA44mPPtu97qYBKq .node path{fill:#eee;stroke:#999;stroke-width:1px;}#mermaid-svg-mA44mPPtu97qYBKq .node .label{text-align:center;}#mermaid-svg-mA44mPPtu97qYBKq .node.clickable{cursor:pointer;}#mermaid-svg-mA44mPPtu97qYBKq .arrowheadPath{fill:#333333;}#mermaid-svg-mA44mPPtu97qYBKq .edgePath .path{stroke:#666;stroke-width:1.5px;}#mermaid-svg-mA44mPPtu97qYBKq .flowchart-link{stroke:#666;fill:none;}#mermaid-svg-mA44mPPtu97qYBKq .edgeLabel{background-color:white;text-align:center;}#mermaid-svg-mA44mPPtu97qYBKq .edgeLabel rect{opacity:0.5;background-color:white;fill:white;}#mermaid-svg-mA44mPPtu97qYBKq .cluster rect{fill:hsl(210,66.6666666667%,95%);stroke:#26a;stroke-width:1px;}#mermaid-svg-mA44mPPtu97qYBKq .cluster text{fill:#333;}#mermaid-svg-mA44mPPtu97qYBKq .cluster span{color:#333;}#mermaid-svg-mA44mPPtu97qYBKq div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:12px;background:hsl(-160,0%,93.3333333333%);border:1px solid #26a;border-radius:2px;pointer-events:none;z-index:100;}#mermaid-svg-mA44mPPtu97qYBKq:root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}#mermaid-svg-mA44mPPtu97qYBKq flowchart{fill:apa;}</style><g><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath LS-A LE-B" style="opacity: 1;" id="L-A-B"><path class="path" d="M109.66244612068965,67.609375L170.0546875,38.859375L246.125,38.859375" marker-end="url(https://stackedit.io/app#arrowhead9)" style="fill:none"></path><defs><marker id="arrowhead9" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath LS-A LE-C" style="opacity: 1;" id="L-A-C"><path class="path" d="M109.66244612068965,114.328125L170.0546875,143.078125L226.921875,143.078125" marker-end="url(https://stackedit.io/app#arrowhead10)" style="fill:none"></path><defs><marker id="arrowhead10" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath LS-B LE-D" style="opacity: 1;" id="L-B-D"><path class="path" d="M307.84375,38.859375L352.046875,38.859375L400.1027516807447,68.9128733192553" marker-end="url(https://stackedit.io/app#arrowhead11)" style="fill:none"></path><defs><marker id="arrowhead11" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath LS-C LE-D" style="opacity: 1;" id="L-C-D"><path class="path" d="M327.046875,143.078125L352.046875,143.078125L400.1027516807447,114.0246266807447" marker-end="url(https://stackedit.io/app#arrowhead12)" style="fill:none"></path><defs><marker id="arrowhead12" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" style="opacity: 1;" transform="translate(170.0546875,38.859375)"><g transform="translate(-31.8671875,-13.359375)" class="label"><rect rx="0" ry="0" width="63.734375" height="26.71875"></rect><foreignObject width="63.734375" height="26.71875"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-A-B" class="edgeLabel L-LS-A' L-LE-B">Link text</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform=""><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-A-C" class="edgeLabel L-LS-A' L-LE-C"></span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform=""><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-B-D" class="edgeLabel L-LS-B' L-LE-D"></span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform=""><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-C-D" class="edgeLabel L-LS-C' L-LE-D"></span></div></foreignObject></g></g></g><g class="nodes"><g class="node default" style="opacity: 1;" id="flowchart-A-40" transform="translate(60.59375,90.96875)"><rect rx="0" ry="0" x="-52.59375" y="-23.359375" width="105.1875" height="46.71875" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-42.59375,-13.359375)"><foreignObject width="85.1875" height="26.71875"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Square Rect</div></foreignObject></g></g></g><g class="node default" style="opacity: 1;" id="flowchart-B-41" transform="translate(276.984375,38.859375)"><circle x="-30.859375" y="-23.359375" r="30.859375" class="label-container"></circle><g class="label" transform="translate(0,0)"><g transform="translate(-20.859375,-13.359375)"><foreignObject width="41.71875" height="26.71875"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Circle</div></foreignObject></g></g></g><g class="node default" style="opacity: 1;" id="flowchart-C-43" transform="translate(276.984375,143.078125)"><rect rx="5" ry="5" x="-50.0625" y="-23.359375" width="100.125" height="46.71875" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-40.0625,-13.359375)"><foreignObject width="80.125" height="26.71875"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Round Rect</div></foreignObject></g></g></g><g class="node default" style="opacity: 1;" id="flowchart-D-45" transform="translate(435.8984375,90.96875)"><polygon points="58.8515625,0 117.703125,-58.8515625 58.8515625,-117.703125 0,-58.8515625" transform="translate(-58.8515625,58.8515625)" class="label-container"></polygon><g class="label" transform="translate(0,0)"><g transform="translate(-32.03125,-13.359375)"><foreignObject width="64.0625" height="26.71875"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Rhombus</div></foreignObject></g></g></g></g></g></g></svg></pre>
+</table><h2 id="level-and-regrading-lens">Level and regrading lens</h2>
+<p>For this purpose we will be using <strong>Prime Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSkillGemCurrency.webp" alt="" height="25"> and <strong>Secondary Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSupportGemCurrency.webp" alt="" height="25">.</p>
+<h3 id="prime-regrading-lens">Prime Regrading Lens</h3>
+<p>The <strong>Prime Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSkillGemCurrency.webp" alt="" height="25"> works for <strong>skill</strong> gems.</p>
+<h3 id="secondary-regrading-lens">Secondary Regrading Lens</h3>
+<p>The <strong>Secondary Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSupportGemCurrency.webp" alt="" height="25"> works for <strong>support</strong> gems.</p>
+<p>The best gem to regrade is inspiration support. The distribution of the alternative qualities are the same for <em>anomalous</em> and <em>divergent</em> therefore is the less risky (this gem has no <em>phantasmal</em> quality). The most valuable one is the <strong>divergent</strong> quality but the <strong>anomalous</strong> can help to mitigate the loss of not hitting the divergent. For this purpose, you must use <strong>secondary regrading lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSupportGemCurrency.webp" alt="" height="25">.</p>
 
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Skill</th>
+<th>20/20</th>
+<th>20/20 corrupted</th>
+<th>21/20</th>
+<th>20/23</th>
+<th>21/23</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://www.poewiki.net/images/2/2c/Inspiration_Support_inventory_icon.png" alt="" height="30"></td>
+<td>Anomalous Inspiration Support</td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/qXLWLjWfg">20/20</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/2dkOOjGik">20/20 corrupted</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/P9ye9EmcL">21/20</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/mBEW9BrC6">20/23</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/4dXyEnEH9">21/23</a></td>
+</tr>
+<tr>
+<td><img src="https://www.poewiki.net/images/2/2c/Inspiration_Support_inventory_icon.png" alt="" height="30"></td>
+<td>Divergent Inspiration Support</td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/pXbWEzbH0">20/20</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/YbWqky7cY">20/20 corrupted</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/ze9MD6gc4">21/20</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/mX3QaZRf6">20/23</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/rYXMXL7UQ">21/23</a></td>
+</tr>
+</tbody>
+</table><h2 id="level-and-temple">Level and temple</h2>
+<p>This method aims to get gems 21/23 because of the double corruption. Due to the time it takes and the risk of breaking the gem is not really worth. Anyway, this method is mandatory when corrupting <strong>awakened gems</strong> or exceptional support gems (<em>enhance</em>, <em>empower</em> or <em>enlighten</em>).</p>
+<h2 id="awakening-level">Awakening level</h2>
+<p>For this scenario, the best is to check in <strong>poe.ninja</strong>. In this <a href="https://poe.ninja/economy/ancestor/skill-gems?corrupted=No&amp;gemType=Awakened">url</a> you can check the prices of the awakened gems at level 1 and level 5. Then you can make the difference and evaluate which gems are worth to level. The more expensive the gem is, the more profit you will get from levelling.</p>
+<p>To level up the gems, you have to use the <a href="https://www.pathofexile.com/trade/search/Ancestor/Zv9nVOEfQ"><strong>Wild Brambleback</strong></a> beast which grants 1 level to a <strong>non-corrupted</strong> awakened gem.</p>
+<p>Therefore the final profit will be: <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi><mi>i</mi><mi>n</mi><mi>a</mi><mi>l</mi><mi>V</mi><mi>a</mi><mi>l</mi><mi>u</mi><mi>e</mi><mo>−</mo><mo stretchy="false">(</mo><mn>4</mn><mo>∗</mo><mi>W</mi><mi>i</mi><mi>l</mi><mi>d</mi><mi>B</mi><mi>r</mi><mi>a</mi><mi>m</mi><mi>b</mi><mi>l</mi><mi>e</mi><mi>b</mi><mi>a</mi><mi>c</mi><mi>k</mi><mo>+</mo><mi>I</mi><mi>n</mi><mi>i</mi><mi>t</mi><mi>i</mi><mi>a</mi><mi>l</mi><mi>C</mi><mi>o</mi><mi>s</mi><mi>t</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">FinalValue - (4*WildBrambleback + InitialCost )</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.77777em; vertical-align: -0.08333em;"></span><span class="mord mathnormal" style="margin-right: 0.13889em;">F</span><span class="mord mathnormal">ina</span><span class="mord mathnormal" style="margin-right: 0.01968em;">l</span><span class="mord mathnormal">Va</span><span class="mord mathnormal" style="margin-right: 0.01968em;">l</span><span class="mord mathnormal">u</span><span class="mord mathnormal">e</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mopen">(</span><span class="mord">4</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">∗</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 0.77777em; vertical-align: -0.08333em;"></span><span class="mord mathnormal">Wi</span><span class="mord mathnormal" style="margin-right: 0.01968em;">l</span><span class="mord mathnormal">d</span><span class="mord mathnormal" style="margin-right: 0.05017em;">B</span><span class="mord mathnormal" style="margin-right: 0.02778em;">r</span><span class="mord mathnormal">amb</span><span class="mord mathnormal" style="margin-right: 0.01968em;">l</span><span class="mord mathnormal">e</span><span class="mord mathnormal">ba</span><span class="mord mathnormal">c</span><span class="mord mathnormal" style="margin-right: 0.03148em;">k</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord mathnormal" style="margin-right: 0.07847em;">I</span><span class="mord mathnormal">ni</span><span class="mord mathnormal">t</span><span class="mord mathnormal">ia</span><span class="mord mathnormal" style="margin-right: 0.07153em;">lC</span><span class="mord mathnormal">os</span><span class="mord mathnormal">t</span><span class="mclose">)</span></span></span></span></span></p>
+<h1 id="currency-transformation">Currency transformation</h1>
+<p>This section is about transforming the type of a stack of currency into another more expensive. For some methods, it is worth to buy the currency and the materials. For some others, just do it if you have the currency</p>
+<h2 id="fossils">Fossils</h2>
+<p>Fossils transformation is quite profitable because is the only one that uses the <strong>primal lifeforce</strong> (the cheapest one)</p>
+<h2 id="essences">Essences</h2>
+<h2 id="catalysts">Catalysts</h2>
+<h2 id="breack">Breack</h2>
+<h2 id="legion">Legion</h2>
+<h1 id="currency-flip">Currency flip</h1>
+<p>This is the art of buying currency in bulk and sell it in chunks.</p>
+<h1 id="items-flip">Items flip</h1>
+<h1 id="craft">Craft</h1>
+<h2 id="rog-expedition">Rog expedition</h2>
+<h2 id="omni-rings">Omni rings</h2>
+<p>CoE simualtion: <a href="https://pastebin.com/cXVUD709">https://pastebin.com/cXVUD709</a></p>
+<h2 id="righteous-fire-set">Righteous fire set</h2>
+<h3 id="helmet">Helmet</h3>
+<h3 id="chest">Chest</h3>
+<h3 id="amulet">Amulet</h3>
+<h3 id="sceptre">Sceptre</h3>
+<h1 id="bulk-of-items">Bulk of items:</h1>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="30"></td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/9MdYiK">https://www.pathofexile.com/trade/exchange/Ancestor/9MdYiK</a></strong></td>
+</tr>
+<tr>
+<td><img src="https://www.poewiki.net/images/d/d8/Orb_of_Alteration_inventory_icon.png" alt="" height="30"></td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/RbMR9kgU7">https://www.pathofexile.com/trade/exchange/Ancestor/RbMR9kgU7</a></strong></td>
+</tr>
+<tr>
+<td><img src="https://www.poewiki.net/images/c/cb/Orb_of_Augmentation_inventory_icon.png" alt="" height="30"></td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/eBjv6wYsL">https://www.pathofexile.com/trade/exchange/Ancestor/eBjv6wYsL</a></strong></td>
+</tr>
+<tr>
+<td><img src="https://www.poewiki.net/images/3/33/Regal_Orb_inventory_icon.png" alt="" height="30"></td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/v6yjmG9CE">https://www.pathofexile.com/trade/exchange/Ancestor/v6yjmG9CE</a></strong></td>
+</tr>
+<tr>
+<td><img src="https://www.poewiki.net/images/5/51/Orb_of_Scouring_inventory_icon.png" alt="" height="30"></td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/E5mZC5">https://www.pathofexile.com/trade/exchange/Ancestor/E5mZC5</a></strong></td>
+</tr>
+<tr>
+<td><img src="https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png" alt="" height="30"></td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/d82bUJ">https://www.pathofexile.com/trade/exchange/Ancestor/d82bUJ</a></strong></td>
+</tr>
+<tr>
+<td><img src="https://www.poewiki.net/images/4/4c/Orb_of_Annulment_inventory_icon.png" alt="" height="30"></td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/54DEyRnTa">https://www.pathofexile.com/trade/exchange/Ancestor/54DEyRnTa</a></strong></td>
+</tr>
+<tr>
+<td><img src="https://www.poewiki.net/images/2/2c/Vaal_Orb_inventory_icon.png" alt="" height="30"></td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/LeRZFn">https://www.pathofexile.com/trade/exchange/Ancestor/LeRZFn</a></strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="https://www.poewiki.net/images/3/3f/Tainted_Divine_Teardrop_inventory_icon.png" alt="" height="30"></td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/5Dqp5YKua">https://www.pathofexile.com/trade/exchange/Ancestor/5Dqp5YKua</a></strong></td>
+</tr>
+</tbody>
+</table><h2 id="other">Other</h2>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSkillGemCurrency.webp" alt="" height="30"></td>
+<td>Prime Regrading Lens</td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/7OD9rk7U5">https://www.pathofexile.com/trade/exchange/Ancestor/7OD9rk7U5</a></strong></td>
+</tr>
+<tr>
+<td><img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSupportGemCurrency.webp" alt="" height="30"></td>
+<td>Secondary Regrading Lens</td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/yeRoKKqFR">https://www.pathofexile.com/trade/exchange/Ancestor/yeRoKKqFR</a></strong></td>
+</tr>
+</tbody>
+</table><h2 id="fossils--resonators">Fossils &amp; Resonators</h2>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Name</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://www.poewiki.net/images/9/9f/Prismatic_Fossil_inventory_icon.png" alt="" height="30"></td>
+<td>Prismatic fossil</td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/LLLpm7fn">https://www.pathofexile.com/trade/exchange/Ancestor/LLLpm7fn</a></strong></td>
+</tr>
+<tr>
+<td><img src="https://www.poewiki.net/images/6/65/Fundamental_Fossil_inventory_icon.png" alt="" height="30"></td>
+<td>Fundamental fossil</td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/LLLpm7fn">https://www.pathofexile.com/trade/exchange/Ancestor/LLLpm7fn</a></strong></td>
+</tr>
+<tr>
+<td><img src="https://www.poewiki.net/images/d/dd/Primitive_Chaotic_Resonator_inventory_icon.png" alt="" height="30"></td>
+<td>Chaotic Resonator</td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/9QLJaYFK">https://www.pathofexile.com/trade/exchange/Ancestor/9QLJaYFK</a></strong></td>
+</tr>
+</tbody>
+</table>
