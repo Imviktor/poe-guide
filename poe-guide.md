@@ -131,11 +131,11 @@
 </tr>
 </tbody>
 </table><h1 id="gems">Gems</h1>
-<p>There are two different ways of making 20/20 gems:</p>
-<ul>
+<p>The profit of selling gems come from corruption. The jackpot is 21/23 (using Alva’s Temple). Otherwise you will be aiming for 21/20 or even 21/0. In order to make profit of the 21/20 gems, the value of those must be the double or greater than the 21/0 version unless you spend your <strong>divines</strong> <img src="https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png" alt="" height="15">  buying <strong>gemcutter’s prisms</strong><img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="15">. Actually, there are two ways of making 20/20 gems:</p>
+<ol>
 <li>Level up until lvl 20 then apply 20 Gemcutter’s Prism <img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="24">.</li>
 <li>Level up until level 20 then vendor it with 1<img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="24"> to get a level 1/20 gem. Then level up again until level 20.</li>
-</ul>
+</ol>
 <p>Once the gems are 20/20 you can apply the methods described bellow to make profit.</p>
 <p>Resources:</p>
 <ul>
@@ -143,8 +143,8 @@
 <li><a href="https://poe.how/economy">poeHow economy</a></li>
 </ul>
 <h2 id="level-and-corrupt">Level and corrupt</h2>
-<h3 id="no-quality">No quality</h3>
-<p>Generally, the non-quality level 21 gems are auras and normally you can ask about 100 <img src="https://www.poewiki.net/images/9/9c/Chaos_Orb_inventory_icon.png" alt="" height="20"> for each. This is useful when you do the 5 ways to get levels. You can reduce the costs of the carry.</p>
+<p>Normally, the non-quality level 21 gems are auras and you can ask about 100 <img src="https://www.poewiki.net/images/9/9c/Chaos_Orb_inventory_icon.png" alt="" height="20"> for each.  In order to analyse the profit of the gems, you must consider whether level gems to 20/</p>
+<p>This is useful when you do the 5 ways to get levels. You can reduce the costs of the carry.</p>
 
 <table>
 <thead>
@@ -229,7 +229,7 @@
 </tr>
 </tbody>
 </table><h2 id="level-and-regrading-lens">Level and regrading lens</h2>
-<p>For this purpose we will be using <strong>Prime Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSkillGemCurrency.webp" alt="" height="25"> and <strong>Secondary Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSupportGemCurrency.webp" alt="" height="25">. Normally, you spend 20<img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="24"></p>
+<p>For this purpose we will be using <strong>Prime Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSkillGemCurrency.webp" alt="" height="25"> and <strong>Secondary Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSupportGemCurrency.webp" alt="" height="25">. Normally, you spend 20 <img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="15"></p>
 <h3 id="prime-regrading-lens">Prime Regrading Lens</h3>
 <p>The <strong>Prime Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSkillGemCurrency.webp" alt="" height="25"> works for <strong>skill</strong> gems.</p>
 <h3 id="secondary-regrading-lens">Secondary Regrading Lens</h3>
