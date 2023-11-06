@@ -57,7 +57,7 @@
 </table><p>(*) This can be expensive. Don’t pay more than 30 ~ 40 co</p>
 <p>Cold Simulation: <a href="https://pastebin.com/jm2A9bGp">https://pastebin.com/jm2A9bGp</a></p>
 <h3 id="passives-ilvl-84">12 Passives iLvl 84</h3>
-<p>These large cluster jewels can be crafted using fossils and looking for increased effect 35% ideally. 25% increased effect is also valid but then you need to <strong>vaal</strong><img src="https://www.poewiki.net/images/2/2c/Vaal_Orb_inventory_icon.png" alt="" height="25"> it and then use <strong>tainted divine teardrop</strong> <img src="https://www.poewiki.net/images/3/3f/Tainted_Divine_Teardrop_inventory_icon.png" alt="" height="25"> to increase the tier to 35%. It really depends in the type of cluster.</p>
+<p>These large cluster jewels can be crafted using fossils and looking for increased effect 35% ideally. 25% increased effect is also valid but then you need to <strong>vaal</strong> <img src="https://www.poewiki.net/images/2/2c/Vaal_Orb_inventory_icon.png" alt="" height="25"> it and then use <strong>tainted divine teardrop</strong> <img src="https://www.poewiki.net/images/3/3f/Tainted_Divine_Teardrop_inventory_icon.png" alt="" height="25"> to increase the tier to 35%. It really depends in the type of cluster.</p>
 
 <table>
 <thead>
@@ -131,7 +131,7 @@
 </tr>
 </tbody>
 </table><h1 id="gems">Gems</h1>
-<p>The profit of selling gems come from corruption. The jackpot is 21/23 (using Alva’s Temple). Otherwise you will be aiming for 21/20 or even 21/0. In order to make profit of the 21/20 gems, the value of those must be the double or greater than the 21/0 version unless you spend your <strong>divines</strong> <img src="https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png" alt="" height="15">  buying <strong>gemcutter’s prisms</strong><img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="15">. Actually, there are two ways of making 20/20 gems:</p>
+<p>There are two ways of making 20/20 gems:</p>
 <ol>
 <li>Level up until lvl 20 then apply 20 Gemcutter’s Prism <img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="24">.</li>
 <li>Level up until level 20 then vendor it with 1<img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="24"> to get a level 1/20 gem. Then level up again until level 20.</li>
@@ -143,7 +143,8 @@
 <li><a href="https://poe.how/economy">poeHow economy</a></li>
 </ul>
 <h2 id="level-and-corrupt">Level and corrupt</h2>
-<p>Normally, the non-quality level 21 gems are auras and you can ask about 100 <img src="https://www.poewiki.net/images/9/9c/Chaos_Orb_inventory_icon.png" alt="" height="20"> for each.  In order to analyse the profit of the gems, you must consider whether level gems to 20/</p>
+<p>The mayor profit of selling is <strong>corruption</strong>. The jackpot is reaching <strong>21/23</strong> (using Alva’s Temple). Otherwise you will be aiming for <strong>21/20</strong> or even <strong>21/0</strong>. In order to make profit of the <strong>21/20</strong> gems, their value must double the value of the 21/0 version unless you spend your <strong>divines</strong> <img src="https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png" alt="" height="24">  buying <strong>gemcutter’s prisms</strong><img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="24">. I would recommend to use the gemcutters only if this method is your main income source.</p>
+<p>Consider that the corrupted 20/0 are useless while the corrupted 20/20 might worth something.</p>
 <p>This is useful when you do the 5 ways to get levels. You can reduce the costs of the carry.</p>
 
 <table>
@@ -154,6 +155,7 @@
 <th>20/20</th>
 <th>21/20</th>
 <th>21/0</th>
+<th>Total Exp.</th>
 </tr>
 </thead>
 <tbody>
@@ -161,77 +163,89 @@
 <td><img src="https://www.poewiki.net/images/d/d8/Determination_inventory_icon.png" alt="" height="30"></td>
 <td>Determination</td>
 <td>Useless</td>
-<td><a href="https://www.pathofexile.com/trade/search/Ancestor/9D9K9OKfK">link</a></td>
-<td></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/zb08zKc4">link</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/lVjqY2IV">link</a></td>
+<td>341.913.067</td>
 </tr>
 <tr>
 <td><img src="https://www.poewiki.net/images/c/c5/Vitality_inventory_icon.png" alt="" height="30"></td>
 <td>Vitality</td>
 <td>Useless</td>
-<td><a href="https://www.pathofexile.com/trade/search/Ancestor/9D9K9OKfK">link</a></td>
-<td></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/eRYvrUL">link</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/8L6DE2IV">link</a></td>
+<td>342.026.975</td>
 </tr>
 <tr>
 <td><img src="https://www.poewiki.net/images/7/78/Purity_of_Fire_inventory_icon.png" alt="" height="30"></td>
 <td>Purity of Fire</td>
 <td>Useless</td>
-<td><a href="https://www.pathofexile.com/trade/search/Ancestor/9D9K9OKfK">link</a></td>
-<td></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/ZWppzSQ">link</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/YbEX2XsY">link</a></td>
+<td>341.331.311</td>
 </tr>
 <tr>
 <td><img src="https://www.poewiki.net/images/3/39/Herald_of_Purity_inventory_icon.png" alt="" height="30"></td>
 <td>Herald of Purity</td>
 <td>Useless</td>
-<td><a href="https://www.pathofexile.com/trade/search/Ancestor/9D9K9OKfK">link</a></td>
-<td></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/RW562BS7">link</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/pGlW0ef0">link</a></td>
+<td>341.913.067</td>
 </tr>
 <tr>
 <td><img src="https://www.poewiki.net/images/5/57/Hatred_inventory_icon.png" alt="" height="30"></td>
 <td>Hatred</td>
 <td>Useless</td>
-<td><a href="https://www.pathofexile.com/trade/search/Ancestor/QG7PXjTw">link</a></td>
-<td></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/v4BlXTE">link</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/2mYgb5tk">link</a></td>
+<td>341.331.311</td>
 </tr>
 <tr>
 <td><img src="https://www.poewiki.net/images/a/a5/Grace_inventory_icon.png" alt="" height="30"></td>
 <td>Grace</td>
 <td>Useless</td>
-<td><a href="https://www.pathofexile.com/trade/search/Ancestor/9D9K9OKfK">link</a></td>
-<td></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/qZDb3Sg">link</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/Zm6E46hQ">link</a></td>
+<td>341.331.311</td>
 </tr>
 <tr>
 <td><img src="https://www.poewiki.net/images/4/4c/Purity_of_Ice_inventory_icon.png" alt="" height="30"></td>
-<td>Purity of Ice</td>
+<td>Purity of Ice **</td>
 <td>Useless</td>
-<td><a href="https://www.pathofexile.com/trade/search/Ancestor/9D9K9OKfK">link</a></td>
-<td></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/2KG2DSk">link</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/02eZaGYFg">link</a></td>
+<td>341.331.311</td>
 </tr>
 <tr>
 <td><img src="https://www.poewiki.net/images/8/8f/Zealotry_inventory_icon.png" alt="" height="30"></td>
 <td>Zealotry</td>
 <td>Useless</td>
-<td><a href="https://www.pathofexile.com/trade/search/Ancestor/QG7PXjTw">link</a></td>
-<td></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/VGa2klCp">link</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/7zMwV2H5">link</a></td>
+<td>341.331.311</td>
 </tr>
 <tr>
 <td><img src="https://www.poewiki.net/images/a/a2/Wrath_inventory_icon.png" alt="" height="30"></td>
 <td>Wrath</td>
 <td>Useless</td>
-<td><a href="https://www.pathofexile.com/trade/search/Ancestor/9D9K9OKfK">link</a></td>
-<td></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/8kO72uV">link</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/KeldrPH5">link</a></td>
+<td>341.331.311</td>
 </tr>
 <tr>
 <td><img src="https://www.poewiki.net/images/9/9d/Mark_On_Hit_Support_inventory_icon.png" alt="" height="30"></td>
 <td>Mark on hit support</td>
 <td><a href="https://www.pathofexile.com/trade/search/Ancestor/KBQ3dOPs5">link</a></td>
-<td><a href="https://www.pathofexile.com/trade/search/Ancestor/9D9K9OKfK">link</a></td>
-<td></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/aJZD7lBHe">link</a></td>
+<td><a href="https://www.pathofexile.com/trade/search/Ancestor/Edd6gYyH5">link</a></td>
+<td>336.444.335</td>
 </tr>
 </tbody>
-</table><h2 id="level-and-regrading-lens">Level and regrading lens</h2>
-<p>For this purpose we will be using <strong>Prime Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSkillGemCurrency.webp" alt="" height="25"> and <strong>Secondary Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSupportGemCurrency.webp" alt="" height="25">. Normally, you spend 20 <img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="15"></p>
+</table><h3 id="alvas-temple">Alva’s temple</h3>
+<p>This method aims to get gems 21/23 because of the double corruption. Due to the time it takes and the risk of breaking the gem is not really worth. Anyway, this method is mandatory when corrupting <strong>awakened gems</strong> or exceptional support gems (<em>enhance</em>, <em>empower</em> or <em>enlighten</em> exceptional).</p>
+<h2 id="level-and-regrading-lens">Level and regrading lens</h2>
+<p>For this purpose we will be using <strong>Prime Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSkillGemCurrency.webp" alt="" height="20"> and <strong>Secondary Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSupportGemCurrency.webp" alt="" height="20">. Normally, you spend 20 <img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="20"></p>
 <h3 id="prime-regrading-lens">Prime Regrading Lens</h3>
-<p>The <strong>Prime Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSkillGemCurrency.webp" alt="" height="25"> works for <strong>skill</strong> gems.</p>
+<p>The <strong>Prime Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSkillGemCurrency.webp" alt="" height="20"> works for <strong>skill</strong> gems.</p>
 <h3 id="secondary-regrading-lens">Secondary Regrading Lens</h3>
 <p>The <strong>Secondary Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSupportGemCurrency.webp" alt="" height="15"> works for <strong>support</strong> gems.</p>
 <p>The best gem to regrade is inspiration support. The distribution of the alternative qualities are the same for <em>anomalous</em> and <em>divergent</em> therefore is the less risky (this gem has no <em>phantasmal</em> quality). The most valuable one is the <strong>divergent</strong> quality but the <strong>anomalous</strong> can help to mitigate the loss of not hitting the divergent. For this purpose, you must use <strong>secondary regrading lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSupportGemCurrency.webp" alt="" height="25">.</p>
@@ -268,9 +282,7 @@
 <td><a href="https://www.pathofexile.com/trade/search/Ancestor/rYXMXL7UQ">link</a></td>
 </tr>
 </tbody>
-</table><h2 id="level-and-temple">Level and temple</h2>
-<p>This method aims to get gems 21/23 because of the double corruption. Due to the time it takes and the risk of breaking the gem is not really worth. Anyway, this method is mandatory when corrupting <strong>awakened gems</strong> or exceptional support gems (<em>enhance</em>, <em>empower</em> or <em>enlighten</em>).</p>
-<h2 id="awakening-level">Awakening level</h2>
+</table><h2 id="awakening-level">Awakening level</h2>
 <p>For this scenario, the best is to check in <strong>poe.ninja</strong>. In this <a href="https://poe.ninja/economy/ancestor/skill-gems?corrupted=No&amp;gemType=Awakened">url</a> you can check the prices of the awakened gems at level 1 and level 5. Then you can make the difference and evaluate which gems are worth to level. The more expensive the gem is, the more profit you will get from levelling. Normally you can get the 10% of the gem value as profit.</p>
 <p>To level up the gems, you have to use the <a href="https://www.pathofexile.com/trade/search/Ancestor/Zv9nVOEfQ"><strong>Wild Brambleback</strong></a> beast which grants 1 level to a <strong>non-corrupted</strong> awakened gem.</p>
 <p>Therefore the final profit will be: <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi><mi>i</mi><mi>n</mi><mi>a</mi><mi>l</mi><mi>V</mi><mi>a</mi><mi>l</mi><mi>u</mi><mi>e</mi><mo>−</mo><mo stretchy="false">(</mo><mn>4</mn><mo>∗</mo><mi>W</mi><mi>i</mi><mi>l</mi><mi>d</mi><mi>B</mi><mi>r</mi><mi>a</mi><mi>m</mi><mi>b</mi><mi>l</mi><mi>e</mi><mi>b</mi><mi>a</mi><mi>c</mi><mi>k</mi><mo>+</mo><mi>I</mi><mi>n</mi><mi>i</mi><mi>t</mi><mi>i</mi><mi>a</mi><mi>l</mi><mi>C</mi><mi>o</mi><mi>s</mi><mi>t</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">FinalValue - (4*WildBrambleback + InitialCost )</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.77777em; vertical-align: -0.08333em;"></span><span class="mord mathnormal" style="margin-right: 0.13889em;">F</span><span class="mord mathnormal">ina</span><span class="mord mathnormal" style="margin-right: 0.01968em;">l</span><span class="mord mathnormal">Va</span><span class="mord mathnormal" style="margin-right: 0.01968em;">l</span><span class="mord mathnormal">u</span><span class="mord mathnormal">e</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mopen">(</span><span class="mord">4</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">∗</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 0.77777em; vertical-align: -0.08333em;"></span><span class="mord mathnormal">Wi</span><span class="mord mathnormal" style="margin-right: 0.01968em;">l</span><span class="mord mathnormal">d</span><span class="mord mathnormal" style="margin-right: 0.05017em;">B</span><span class="mord mathnormal" style="margin-right: 0.02778em;">r</span><span class="mord mathnormal">amb</span><span class="mord mathnormal" style="margin-right: 0.01968em;">l</span><span class="mord mathnormal">e</span><span class="mord mathnormal">ba</span><span class="mord mathnormal">c</span><span class="mord mathnormal" style="margin-right: 0.03148em;">k</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord mathnormal" style="margin-right: 0.07847em;">I</span><span class="mord mathnormal">ni</span><span class="mord mathnormal">t</span><span class="mord mathnormal">ia</span><span class="mord mathnormal" style="margin-right: 0.07153em;">lC</span><span class="mord mathnormal">os</span><span class="mord mathnormal">t</span><span class="mclose">)</span></span></span></span></span>.</p>
