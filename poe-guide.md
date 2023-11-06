@@ -28,7 +28,7 @@
 <p>The cluster jewel is a very lucrative craft when the other players starts to build their builds. This method works for mid game when many players already have the currency and the level to invest in the cluster jewels.</p>
 <h2 id="large-jewels">Large Jewels</h2>
 <h3 id="passives">8 Passives</h3>
-<p>The <strong>large cluster jewels</strong> are crafted using <strong>prismatic fossils</strong> <img src="https://www.poewiki.net/images/9/9f/Prismatic_Fossil_inventory_icon.png" alt="" height="25"> and <strong>primitive resonators</strong><img src="https://www.poewiki.net/images/d/dd/Primitive_Chaotic_Resonator_inventory_icon.png" alt="" height="25">. The idea is to hit at least 2 modifiers and use <strong>exalts</strong><img src="https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png" alt="" height="25"> and <strong>annulment</strong> to get the 3rd skill. Jackpot if you get 3 skills with the fossils.</p>
+<p>The <strong>large cluster jewels</strong> are crafted using <strong>prismatic fossils</strong> <img src="https://www.poewiki.net/images/9/9f/Prismatic_Fossil_inventory_icon.png" alt="" height="20"> and <strong>primitive resonators</strong> <img src="https://www.poewiki.net/images/d/dd/Primitive_Chaotic_Resonator_inventory_icon.png" alt="" height="20">. The idea is to hit at least 2 modifiers and use <strong>exalts</strong><img src="https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png" alt="" height="20"> and <strong>annulment</strong> to get the 3rd skill. Jackpot if you get 3 skills with the fossils.</p>
 <p><strong>Descriptive video</strong>: <a href="https://www.youtube.com/watch?v=MOYCROoD0u0">https://www.youtube.com/watch?v=MOYCROoD0u0</a></p>
 
 <table>
@@ -57,7 +57,7 @@
 </table><p>(*) This can be expensive. Don’t pay more than 30 ~ 40 co</p>
 <p>Cold Simulation: <a href="https://pastebin.com/jm2A9bGp">https://pastebin.com/jm2A9bGp</a></p>
 <h3 id="passives-ilvl-84">12 Passives iLvl 84</h3>
-<p>These large cluster jewels can be crafted using fossils and looking for increased effect 35% ideally. 25% increased effect is also valid but then you need to <strong>vaal</strong> <img src="https://www.poewiki.net/images/2/2c/Vaal_Orb_inventory_icon.png" alt="" height="25"> it and then use <strong>tainted divine teardrop</strong> <img src="https://www.poewiki.net/images/3/3f/Tainted_Divine_Teardrop_inventory_icon.png" alt="" height="25"> to increase the tier to 35%. It really depends in the type of cluster.</p>
+<p>These large cluster jewels can be crafted using fossils and looking for increased effect 35% ideally. 25% increased effect is also valid but then you need to <strong>vaal</strong> <img src="https://www.poewiki.net/images/2/2c/Vaal_Orb_inventory_icon.png" alt="" height="20"> it and then use <strong>tainted divine teardrop</strong> <img src="https://www.poewiki.net/images/3/3f/Tainted_Divine_Teardrop_inventory_icon.png" alt="" height="20"> to increase the tier to 35%. It really depends in the type of cluster.</p>
 
 <table>
 <thead>
@@ -79,9 +79,9 @@
 <td>All attributes, Strength, Intelligence</td>
 </tr>
 </tbody>
-</table><p>You can also buy an already corrupted cluster with 25% effect and the desired mods and then apply the <strong>tainted divine teardrop</strong> <img src="https://www.poewiki.net/images/3/3f/Tainted_Divine_Teardrop_inventory_icon.png" alt="" height="25"> but this is more unlikely to happen.</p>
+</table><p>You can also buy an already corrupted cluster with 25% effect and the desired mods and then apply the <strong>tainted divine teardrop</strong> <img src="https://www.poewiki.net/images/3/3f/Tainted_Divine_Teardrop_inventory_icon.png" alt="" height="20"> but this is more unlikely to happen.</p>
 <h2 id="medium-jewels">Medium Jewels</h2>
-<p>The <strong>medium cluster jewels</strong> are crafted with <strong>alteration</strong> <img src="https://www.poewiki.net/images/d/d8/Orb_of_Alteration_inventory_icon.png" alt="" height="25">  and <strong>augment</strong> <img src="https://www.poewiki.net/images/c/cb/Orb_of_Augmentation_inventory_icon.png" alt="" height="25"> in a <strong>iLvl:75+</strong>. Use the item filter to highlight the item in case it hit a desired skill. If we reach at least one of the desired modifiers apply the <strong>regal</strong> <img src="https://www.poewiki.net/images/3/33/Regal_Orb_inventory_icon.png" alt="" height="25"> . If it contains 2 skills, check price and finish. Otherwise, apply a <strong>scouring</strong> <img src="https://www.poewiki.net/images/5/51/Orb_of_Scouring_inventory_icon.png" alt="" height="25"> and restart the process. It is not possible to achieve 2 skills with the <strong>alt+aug</strong> combo. Regal it is mandatory. The cost of the jewel might vary between 5 and 15 co.</p>
+<p>The <strong>medium cluster jewels</strong> are crafted with <strong>alteration</strong> <img src="https://www.poewiki.net/images/d/d8/Orb_of_Alteration_inventory_icon.png" alt="" height="20">  and <strong>augment</strong> <img src="https://www.poewiki.net/images/c/cb/Orb_of_Augmentation_inventory_icon.png" alt="" height="20"> in a <strong>iLvl:75+</strong>. Use the item filter to highlight the item in case it hit a desired skill. If we reach at least one of the desired modifiers apply the <strong>regal</strong> <img src="https://www.poewiki.net/images/3/33/Regal_Orb_inventory_icon.png" alt="" height="20"> . If it contains 2 skills, check price and finish. Otherwise, apply a <strong>scouring</strong> <img src="https://www.poewiki.net/images/5/51/Orb_of_Scouring_inventory_icon.png" alt="" height="20"> and restart the process. It is not possible to achieve 2 skills with the <strong>alt+aug</strong> combo. Regal it is mandatory. The cost of the jewel might vary between 5 and 15 co.</p>
 
 <table>
 <thead>
@@ -133,8 +133,8 @@
 </table><h1 id="gems">Gems</h1>
 <p>There are two ways of making 20/20 gems:</p>
 <ol>
-<li>Level up until lvl 20 then apply 20 Gemcutter’s Prism <img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="24">.</li>
-<li>Level up until level 20 then vendor it with 1<img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="24"> to get a level 1/20 gem. Then level up again until level 20.</li>
+<li>Level up until lvl 20 then apply 20 Gemcutter’s Prism <img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="20">.</li>
+<li>Level up until level 20 then vendor it with 1<img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="20"> to get a level 1/20 gem. Then level up again until level 20.</li>
 </ol>
 <p>Once the gems are 20/20 you can apply the methods described bellow to make profit.</p>
 <p>Resources:</p>
@@ -143,9 +143,17 @@
 <li><a href="https://poe.how/economy">poeHow economy</a></li>
 </ul>
 <h2 id="level-and-corrupt">Level and corrupt</h2>
-<p>The mayor profit of selling is <strong>corruption</strong>. The jackpot is reaching <strong>21/23</strong> (using Alva’s Temple). Otherwise you will be aiming for <strong>21/20</strong> or even <strong>21/0</strong>. In order to make profit of the <strong>21/20</strong> gems, their value must double the value of the 21/0 version unless you spend your <strong>divines</strong> <img src="https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png" alt="" height="24">  buying <strong>gemcutter’s prisms</strong><img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="24">. I would recommend to use the gemcutters only if this method is your main income source.</p>
+<p><strong>This is useful when you do the 5 ways to get levels. You can reduce the costs of the carry.</strong></p>
+<p>The mayor profit of selling is <strong>corruption</strong>.  Applying a <strong>vaal orb</strong> <img src="https://www.poewiki.net/images/2/2c/Vaal_Orb_inventory_icon.png" alt="" height="20"> has several different outcomes weighted equally:</p>
+<ul>
+<li>Adds or removes a level to the gem with a maximum of level 21</li>
+<li>Adds or removes up to 10% quality to the gem with a maximum of 23% quality</li>
+<li>Transforms the gem into its Vaal skill version</li>
+<li>Nothing happens</li>
+</ul>
+<p>This means, you will get a 21 level gem in <strong>1/4 attempts</strong> or <strong>1,25</strong> of gems levelled at the same time. Furthermore, the gem you are trying to build must be 4 times more valuable than the 20/20 version to get any profit. That’s why I recommend to use this method as a passive income and try not to waste much time on investigating.</p>
+<p>The jackpot is reaching <strong>21/23</strong> (using Alva’s Temple). Otherwise you will be aiming for <strong>21/20</strong> or even <strong>21/0</strong>. In order to make profit of the <strong>21/20</strong> gems, their value must double the value of the 21/0 version unless you spend your <strong>divines</strong> <img src="https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png" alt="" height="24">  buying <strong>gemcutter’s prisms</strong><img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="24">. I would recommend to use the gemcutter’s only if this method is your main income source.</p>
 <p>Consider that the corrupted 20/0 are useless while the corrupted 20/20 might worth something.</p>
-<p>This is useful when you do the 5 ways to get levels. You can reduce the costs of the carry.</p>
 
 <table>
 <thead>
@@ -241,14 +249,15 @@
 </tr>
 </tbody>
 </table><h3 id="alvas-temple">Alva’s temple</h3>
-<p>This method aims to get gems 21/23 because of the double corruption. Due to the time it takes and the risk of breaking the gem is not really worth. Anyway, this method is mandatory when corrupting <strong>awakened gems</strong> or exceptional support gems (<em>enhance</em>, <em>empower</em> or <em>enlighten</em> exceptional).</p>
+<p>This method aims to get gems <strong>21/23</strong> because of the double corruption. Due to the time it takes and the risk of breaking the gem is not really worth. Anyway, this method is mandatory when corrupting <strong>awakened gems</strong> or exceptional support gems (<em>enhance</em>, <em>empower</em> or <em>enlighten</em> exceptional).</p>
 <h2 id="level-and-regrading-lens">Level and regrading lens</h2>
-<p>For this purpose we will be using <strong>Prime Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSkillGemCurrency.webp" alt="" height="20"> and <strong>Secondary Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSupportGemCurrency.webp" alt="" height="20">. Normally, you spend 20 <img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="20"></p>
+<p>For this purpose we will be using <strong>Prime Regrading Lens</strong> <img src="https://www.poewiki.net/images/4/43/Prime_Regrading_Lens_inventory_icon.png" alt="" height="20"> and <strong>Secondary Regrading Lens</strong> <img src="https://www.poewiki.net/images/a/a4/Secondary_Regrading_Lens_inventory_icon.png" alt="" height="20">. Normally, you spend 20 <img src="https://www.poewiki.net/images/e/e2/Gemcutter%27s_Prism_inventory_icon.png" alt="" height="25"> to level the 20/0 gems. Otherwise it would take too long considering this can be a main income source.</p>
 <h3 id="prime-regrading-lens">Prime Regrading Lens</h3>
-<p>The <strong>Prime Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSkillGemCurrency.webp" alt="" height="20"> works for <strong>skill</strong> gems.</p>
+<p>The <strong>Prime Regrading Lens</strong> <img src="https://www.poewiki.net/images/4/43/Prime_Regrading_Lens_inventory_icon.png" alt="" height="20"> works for <strong>skill</strong> gems.</p>
 <h3 id="secondary-regrading-lens">Secondary Regrading Lens</h3>
-<p>The <strong>Secondary Regrading Lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSupportGemCurrency.webp" alt="" height="15"> works for <strong>support</strong> gems.</p>
-<p>The best gem to regrade is inspiration support. The distribution of the alternative qualities are the same for <em>anomalous</em> and <em>divergent</em> therefore is the less risky (this gem has no <em>phantasmal</em> quality). The most valuable one is the <strong>divergent</strong> quality but the <strong>anomalous</strong> can help to mitigate the loss of not hitting the divergent. For this purpose, you must use <strong>secondary regrading lens</strong> <img src="https://cdn.poedb.tw/image/Art/2DItems/Currency/AlternateSupportGemCurrency.webp" alt="" height="25">.</p>
+<p>The <strong>Secondary Regrading Lens</strong> <img src="https://www.poewiki.net/images/a/a4/Secondary_Regrading_Lens_inventory_icon.png" alt="" height="20"> works for <strong>support</strong> gems.</p>
+<p>The best gem to regrade is inspiration support. The distribution of the alternative qualities are the same for <em>anomalous</em> and <em>divergent</em> therefore is the less risky (this gem has no <em>phantasmal</em> quality). The most valuable one is the <strong>divergent</strong> quality but the <strong>anomalous</strong> can help to mitigate the loss of not hitting the divergent. For this purpose, you must use <strong>secondary regrading lens</strong>.</p>
+<p>In the following table, the 20/20 column is the price for the gem you already have. The 20/20 corrupted is the worse scenario and the 21/20 column is the best. The 20/23 might be also worth and the 21/23 is if you want to try with Alva’s temple (not recommended)</p>
 
 <table>
 <thead>
@@ -287,15 +296,71 @@
 <p>To level up the gems, you have to use the <a href="https://www.pathofexile.com/trade/search/Ancestor/Zv9nVOEfQ"><strong>Wild Brambleback</strong></a> beast which grants 1 level to a <strong>non-corrupted</strong> awakened gem.</p>
 <p>Therefore the final profit will be: <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi><mi>i</mi><mi>n</mi><mi>a</mi><mi>l</mi><mi>V</mi><mi>a</mi><mi>l</mi><mi>u</mi><mi>e</mi><mo>−</mo><mo stretchy="false">(</mo><mn>4</mn><mo>∗</mo><mi>W</mi><mi>i</mi><mi>l</mi><mi>d</mi><mi>B</mi><mi>r</mi><mi>a</mi><mi>m</mi><mi>b</mi><mi>l</mi><mi>e</mi><mi>b</mi><mi>a</mi><mi>c</mi><mi>k</mi><mo>+</mo><mi>I</mi><mi>n</mi><mi>i</mi><mi>t</mi><mi>i</mi><mi>a</mi><mi>l</mi><mi>C</mi><mi>o</mi><mi>s</mi><mi>t</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">FinalValue - (4*WildBrambleback + InitialCost )</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.77777em; vertical-align: -0.08333em;"></span><span class="mord mathnormal" style="margin-right: 0.13889em;">F</span><span class="mord mathnormal">ina</span><span class="mord mathnormal" style="margin-right: 0.01968em;">l</span><span class="mord mathnormal">Va</span><span class="mord mathnormal" style="margin-right: 0.01968em;">l</span><span class="mord mathnormal">u</span><span class="mord mathnormal">e</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mopen">(</span><span class="mord">4</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">∗</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 0.77777em; vertical-align: -0.08333em;"></span><span class="mord mathnormal">Wi</span><span class="mord mathnormal" style="margin-right: 0.01968em;">l</span><span class="mord mathnormal">d</span><span class="mord mathnormal" style="margin-right: 0.05017em;">B</span><span class="mord mathnormal" style="margin-right: 0.02778em;">r</span><span class="mord mathnormal">amb</span><span class="mord mathnormal" style="margin-right: 0.01968em;">l</span><span class="mord mathnormal">e</span><span class="mord mathnormal">ba</span><span class="mord mathnormal">c</span><span class="mord mathnormal" style="margin-right: 0.03148em;">k</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord mathnormal" style="margin-right: 0.07847em;">I</span><span class="mord mathnormal">ni</span><span class="mord mathnormal">t</span><span class="mord mathnormal">ia</span><span class="mord mathnormal" style="margin-right: 0.07153em;">lC</span><span class="mord mathnormal">os</span><span class="mord mathnormal">t</span><span class="mclose">)</span></span></span></span></span>.</p>
 <h1 id="currency-transformation">Currency transformation</h1>
-<p>This section is about transforming the type of a stack of currency into another more expensive. For some methods, it is worth to buy the currency and the materials. For some others, just do it if you have the currency</p>
-<h2 id="fossils">Fossils</h2>
-<p>Fossils transformation is quite profitable because is the only one that uses the <strong>primal lifeforce</strong> (the cheapest one)</p>
+<p>This section is about transforming the type of a stack of currency into another more expensive. For some methods, it is worth to buy the currency and the materials. For some others, just do it if you have the currency to swap. Basically, any</p>
+<p>The following spreadsheet summarizes the methodology: <a href="https://docs.google.com/spreadsheets/d/1L06aLQRHcynMLCJx4j0ZnXz4g3lOdZDeI6nbvBsdHlk/edit#gid=681736614"><strong>currency transformation</strong></a>.</p>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Fossils</th>
+<th>Essences</th>
+<th>Catalysts</th>
+<th>Delirium</th>
+<th>Breach</th>
+<th>Legion</th>
+<th>Oils</th>
+<th>Essences</th>
+<th>Scarabs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vivid</td>
+<td></td>
+<td></td>
+<td>x</td>
+<td></td>
+<td></td>
+<td></td>
+<td>x</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Primal</td>
+<td></td>
+<td>x</td>
+<td></td>
+<td>x</td>
+<td></td>
+<td>x</td>
+<td></td>
+<td>x</td>
+<td></td>
+</tr>
+<tr>
+<td>Wild</td>
+<td>x</td>
+<td></td>
+<td></td>
+<td></td>
+<td>x</td>
+<td></td>
+<td></td>
+<td></td>
+<td>x</td>
+</tr>
+</tbody>
+</table><h2 id="fossils">Fossils</h2>
+<p>Fossils transformation is quite profitable because is the only one that uses the <strong>wild lifeforce</strong> (the cheapest one)</p>
 <h2 id="essences">Essences</h2>
 <h2 id="catalysts">Catalysts</h2>
-<h2 id="breack">Breack</h2>
+<h2 id="breach">Breach</h2>
+<p>Uses</p>
 <h2 id="legion">Legion</h2>
 <h1 id="currency-flip">Currency flip</h1>
-<p>This is the art of buying currency in bulk and sell it in chunks.</p>
+<p>This is the art of buying currency in bulk and sell it in chunks. Then the chaos orbs are reinvested in fragments which are sold in bulk for major profit. The following spreadsheet summarizes the methodology: <a href="https://docs.google.com/spreadsheets/d/1L06aLQRHcynMLCJx4j0ZnXz4g3lOdZDeI6nbvBsdHlk/edit#gid=681736614"><strong>currency flip</strong></a></p>
 <h1 id="items-flip">Items flip</h1>
 <h1 id="craft">Craft</h1>
 <h2 id="rog-expedition">Rog expedition</h2>
@@ -387,6 +452,38 @@
 <td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/yeRoKKqFR">https://www.pathofexile.com/trade/exchange/Ancestor/yeRoKKqFR</a></strong></td>
 </tr>
 </tbody>
+</table><h2 id="crystalized-lifeforce">Crystalized Lifeforce</h2>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Name</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://www.poewiki.net/images/thumb/6/6e/Wild_Crystallised_Lifeforce_inventory_icon.png/78px-Wild_Crystallised_Lifeforce_inventory_icon.png" alt="" height="30"></td>
+<td>Wild Crystalized lifeforce</td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/EK06RgVC5">https://www.pathofexile.com/trade/exchange/Ancestor/EK06RgVC5</a></strong></td>
+</tr>
+<tr>
+<td><img src="https://www.poewiki.net/images/thumb/0/09/Primal_Crystallised_Lifeforce_inventory_icon.png/78px-Primal_Crystallised_Lifeforce_inventory_icon.png" alt="" height="30"></td>
+<td>Primal Crystalized lifeforce</td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/8y42GPMhV">https://www.pathofexile.com/trade/exchange/Ancestor/8y42GPMhV</a></strong></td>
+</tr>
+<tr>
+<td><img src="https://www.poewiki.net/images/thumb/4/4e/Vivid_Crystallised_Lifeforce_inventory_icon.png/78px-Vivid_Crystallised_Lifeforce_inventory_icon.png" alt="" height="30"></td>
+<td>Vivid Crystalized lifeforce</td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/gL3WvL6iQ">https://www.pathofexile.com/trade/exchange/Ancestor/gL3WvL6iQ</a></strong></td>
+</tr>
+<tr>
+<td><img src="https://www.poewiki.net/images/thumb/f/fa/Sacred_Crystallised_Lifeforce_inventory_icon.png/78px-Sacred_Crystallised_Lifeforce_inventory_icon.png" alt="" height="30"></td>
+<td>Sacred Crystalized lifeforce</td>
+<td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/5DJkZYnta">https://www.pathofexile.com/trade/exchange/Ancestor/5DJkZYnta</a></strong></td>
+</tr>
+</tbody>
 </table><h2 id="fossils--resonators">Fossils &amp; Resonators</h2>
 
 <table>
@@ -414,4 +511,10 @@
 <td><strong><a href="https://www.pathofexile.com/trade/exchange/Ancestor/9QLJaYFK">https://www.pathofexile.com/trade/exchange/Ancestor/9QLJaYFK</a></strong></td>
 </tr>
 </tbody>
-</table>
+</table><h1 id="resources">Resources</h1>
+<ul>
+<li>Currency flip &amp; transform spreadsheet: <a href="https://docs.google.com/spreadsheets/d/1L06aLQRHcynMLCJx4j0ZnXz4g3lOdZDeI6nbvBsdHlk/edit#gid=681736614">currency_flip</a></li>
+<li>Price of gems in POE Ninja: <a href="https://poe.ninja/economy/ancestor/skill-gems">poe.ninja gems</a></li>
+<li>Economy and profit tables <a href="https://poe.how/economy">poeHow economy</a></li>
+</ul>
+
