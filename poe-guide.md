@@ -303,62 +303,123 @@
 <thead>
 <tr>
 <th></th>
-<th>Fossils</th>
-<th>Essences</th>
-<th>Catalysts</th>
-<th>Delirium</th>
-<th>Breach</th>
-<th>Legion</th>
-<th>Oils</th>
-<th>Essences</th>
-<th>Scarabs</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Vivid</td>
-<td></td>
-<td></td>
-<td>x</td>
-<td></td>
-<td></td>
-<td></td>
-<td>x</td>
-<td></td>
+<td><img src="https://www.poewiki.net/images/thumb/6/6e/Wild_Crystallised_Lifeforce_inventory_icon.png/78px-Wild_Crystallised_Lifeforce_inventory_icon.png" alt="" height="30"></td>
+<td>Fossils</td>
+<td>Breach</td>
+<td>Scarabs</td>
 <td></td>
 </tr>
 <tr>
-<td>Primal</td>
-<td></td>
-<td>x</td>
-<td></td>
-<td>x</td>
-<td></td>
-<td>x</td>
-<td></td>
-<td>x</td>
+<td><img src="https://www.poewiki.net/images/thumb/0/09/Primal_Crystallised_Lifeforce_inventory_icon.png/78px-Primal_Crystallised_Lifeforce_inventory_icon.png" alt="" height="30"></td>
+<td>Essences</td>
+<td>Legion</td>
+<td>Delirium</td>
 <td></td>
 </tr>
 <tr>
-<td>Wild</td>
-<td>x</td>
+<td><img src="https://www.poewiki.net/images/thumb/4/4e/Vivid_Crystallised_Lifeforce_inventory_icon.png/78px-Vivid_Crystallised_Lifeforce_inventory_icon.png" alt="" height="30"></td>
+<td>Catalyst</td>
+<td>Oil</td>
 <td></td>
 <td></td>
-<td></td>
-<td>x</td>
-<td></td>
-<td></td>
-<td></td>
-<td>x</td>
 </tr>
 </tbody>
-</table><h2 id="fossils">Fossils</h2>
-<p>Fossils transformation is quite profitable because is the only one that uses the <strong>wild lifeforce</strong> (the cheapest one)</p>
-<h2 id="essences">Essences</h2>
-<h2 id="catalysts">Catalysts</h2>
-<h2 id="breach">Breach</h2>
-<p>Uses</p>
-<h2 id="legion">Legion</h2>
+</table><p><span class="katex--inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>a</mi><mo>=</mo><mo>−</mo><mi>T</mi><mi>r</mi><mi>i</mi><mi>e</mi><mi>s</mi><mo>∗</mo><mfrac><mrow><mi>Q</mi><mo stretchy="false">(</mo><mi>L</mi><mi>i</mi><mi>f</mi><mi>e</mi><mi>f</mi><mi>o</mi><mi>r</mi><mi>c</mi><mi>e</mi><mo stretchy="false">)</mo></mrow><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>L</mi><mi>i</mi><mi>f</mi><mi>e</mi><mi>f</mi><mi>o</mi><mi>r</mi><mi>c</mi><mi>e</mi><mo stretchy="false">)</mo></mrow></mfrac></mrow><annotation encoding="application/x-tex">a= - Tries * \frac{Q(Lifeforce)}{P(Lifeforce)}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.43056em; vertical-align: 0em;"></span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.76666em; vertical-align: -0.08333em;"></span><span class="mord">−</span><span class="mord mathnormal" style="margin-right: 0.13889em;">T</span><span class="mord mathnormal" style="margin-right: 0.02778em;">r</span><span class="mord mathnormal">i</span><span class="mord mathnormal">es</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">∗</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 1.53em; vertical-align: -0.52em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 1.01em;"><span class="" style="top: -2.655em;"><span class="pstrut" style="height: 3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right: 0.13889em;">P</span><span class="mopen mtight">(</span><span class="mord mathnormal mtight">L</span><span class="mord mathnormal mtight">i</span><span class="mord mathnormal mtight" style="margin-right: 0.10764em;">f</span><span class="mord mathnormal mtight">e</span><span class="mord mathnormal mtight" style="margin-right: 0.10764em;">f</span><span class="mord mathnormal mtight">orce</span><span class="mclose mtight">)</span></span></span></span><span class="" style="top: -3.23em;"><span class="pstrut" style="height: 3em;"></span><span class="frac-line" style="border-bottom-width: 0.04em;"></span></span><span class="" style="top: -3.485em;"><span class="pstrut" style="height: 3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">Q</span><span class="mopen mtight">(</span><span class="mord mathnormal mtight">L</span><span class="mord mathnormal mtight">i</span><span class="mord mathnormal mtight" style="margin-right: 0.10764em;">f</span><span class="mord mathnormal mtight">e</span><span class="mord mathnormal mtight" style="margin-right: 0.10764em;">f</span><span class="mord mathnormal mtight">orce</span><span class="mclose mtight">)</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.52em;"><span class=""></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></p>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Consumes</th>
+<th>Total-Worth(%)</th>
+<th>Min Buy</th>
+<th>Min Sell</th>
+<th>Lifeforce</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fossils</td>
+<td>Wild</td>
+<td>10 - 3  (30%)</td>
+<td></td>
+<td></td>
+<td>300</td>
+</tr>
+<tr>
+<td>Breach</td>
+<td>Wild</td>
+<td>5 - 2  (40%)</td>
+<td>10/30</td>
+<td>10</td>
+<td>400</td>
+</tr>
+<tr>
+<td>Scarabs</td>
+<td>Wild</td>
+<td>16 - 3  (19%)</td>
+<td>50</td>
+<td>100</td>
+<td>300</td>
+</tr>
+<tr>
+<td>Essences</td>
+<td>Primal</td>
+<td>20 - 6  (30%)</td>
+<td>20</td>
+<td>60</td>
+<td>300</td>
+</tr>
+<tr>
+<td>Hysteria</td>
+<td>Primal</td>
+<td>20 - 6  (30%)</td>
+<td>20</td>
+<td>60</td>
+<td>300</td>
+</tr>
+<tr>
+<td>Legion</td>
+<td>Primal</td>
+<td>5 - 2  (40%)</td>
+<td>10/70</td>
+<td>1/30</td>
+<td>400</td>
+</tr>
+<tr>
+<td>Delirium</td>
+<td>Primal</td>
+<td>19 - 2  (10%)</td>
+<td>90</td>
+<td>330</td>
+<td>300</td>
+</tr>
+<tr>
+<td>Catalyst</td>
+<td>Vivid</td>
+<td>10 - 3  (30%)</td>
+<td>10</td>
+<td>200</td>
+<td>300</td>
+</tr>
+<tr>
+<td>Oil</td>
+<td>Vivid</td>
+<td>25 - 18 (70%)</td>
+<td>20</td>
+<td>40</td>
+<td>300</td>
+</tr>
+</tbody>
+</table><p>Preguntar a chatGPT cual es la cantidad de media que se gasta para conseguir hacerlo rentable. Por ejemplo si 2 de cada 5 es profit significa que al rollear, de las otras 4 posibilidades, 2 son rentables. Tambien mirar si los rolls son weighted</p>
 <h1 id="currency-flip">Currency flip</h1>
 <p>This is the art of buying currency in bulk and sell it in chunks. Then the chaos orbs are reinvested in fragments which are sold in bulk for major profit. The following spreadsheet summarizes the methodology: <a href="https://docs.google.com/spreadsheets/d/1L06aLQRHcynMLCJx4j0ZnXz4g3lOdZDeI6nbvBsdHlk/edit#gid=681736614"><strong>currency flip</strong></a></p>
 <h1 id="items-flip">Items flip</h1>
@@ -436,7 +497,7 @@
 <thead>
 <tr>
 <th></th>
-<th></th>
+<th>Name</th>
 <th>Link</th>
 </tr>
 </thead>
